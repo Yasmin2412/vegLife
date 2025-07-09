@@ -4,11 +4,7 @@ VegLife is a full-stack web application built using the MERN stack (MongoDB, Exp
 
 ---
 
-## 🌐 Live Demo
 
-[Click Here to View Live](https://your-deployed-url.com) *(Add this once deployed)*
-
----
 
 ## 🛠️ Tech Stack
 
